@@ -161,8 +161,8 @@ def main():
         metrics_by_difficulty,
     )
 
-    print(f"\nDetailed results saved to: {results_path}")
-    print(f"Summary table saved to: {summary_path}")
+    print(f"\nDetailed results successfully saved to: {results_path}")
+    print(f"Summary table successfully saved to: {summary_path}")
 
 
 if __name__ == "__main__":
